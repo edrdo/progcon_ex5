@@ -34,6 +34,9 @@ Para compilar e executar o programa execute os seguintes comandos a partir do di
 de topo:
 
   ```
+# Para configurar a PATH
+export PATH=$PWD/cooperari-0.4/bin:$PATH
+
 # Para compilar / recompilar
 cjavac
 
