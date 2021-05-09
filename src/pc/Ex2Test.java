@@ -27,10 +27,5 @@ public class Ex2Test {
      );
 
      // TODO Complete
-
-     System.out.println("--- results ---");
-     System.out.printf("r = %s%n", r.read());
-     System.out.printf("s.size() = %d%n", s.size());
-     System.out.printf("x = %s%n", Arrays.toString(x));
   }
 }
