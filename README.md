@@ -22,9 +22,9 @@ b. Apresente uma linearização possível para a história que seja coerente com
   - Fica o valor 1 na stack.
   - Fica o valor 2 na stack.
   - $x_0 = x_1$.
-  - $x_0$ !=  $x_1$.
+  - $x_0 \neq x_1$.
   - $x_2 = s.{\rm size}()$.
-  - $x_2$ != $s.{\rm size}()$.
+  - $x_2 \neq s.{\rm size}()$.
    
 b. Identifique exaustivamente as linearizações possíveis da história apresentadada e os valores $x_0$ a $x_2$ obtidos bem como o estado da stack $s$ no final para cada uma das linearizações. 
 
