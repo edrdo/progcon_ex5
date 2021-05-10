@@ -41,11 +41,11 @@ public class Ex1Test {
  
      /* TODO: Descomente e complete
      assertTrue(
-       (x[0] == 0 && x[1] == 0 && x[2] == 0)
-     ||
        (x[0] == 0 && x[1] == 0 && x[2] == 1)
      ||
        (x[0] == 0 && x[1] == 0 && x[2] == 2)
+     || 
+        ... outras possibilidades ...
      );
      */
 
