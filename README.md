@@ -66,4 +66,11 @@ Para cada uma das condições a seguir, apresente uma linearização para a hist
 
 Identifique uma história linear que possam corresponder a uma execução sequencialmente consistente com a história apresentada, mas não a uma linearização.
 
+## 3
+
+O resto da aula será dedicado à apresentação do sistema [Cooperari](https://github.com/Cooperari/cooperari).
+
+
+
+
 
